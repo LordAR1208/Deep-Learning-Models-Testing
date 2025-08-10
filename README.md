@@ -1,2 +1,2 @@
 # Deep-Learning-Models-Testing
-Testing perceptron learning and advanced algorithms rule for various datasets
+Testing perceptron learning and neural networks for various datasets
